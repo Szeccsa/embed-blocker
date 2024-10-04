@@ -15,3 +15,5 @@ Just pop the script into your &lt;head&gt; tag located in this repositorys index
 <a href="https://szeccsa.github.io/embed-blocker" target="_blank">Demo</a>
 
 <a href="https://www.iframe-generator.com" target="_blank">Iframe generator</a>
+
+Just pop the "https://szeccsa.github.io/embed-blocker" address into the "iFrameURL:" field on Iframe generator, press the "Generate" and then the "Preview" button.
