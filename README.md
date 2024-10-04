@@ -8,10 +8,10 @@ It basically checks if the page is in an iframe or similar element instead of th
 
 ## How to install
 
-Just pop the script into your &lt;head&gt; tag and change the "blocked page" url to yours, or keep it the same.
+Just pop the script into your &lt;head&gt; tag located in this repositorys index.html and change the "blocked page" url to yours, or keep it the same.
 
 ## Test it yourself
 
 <a href="https://szeccsa.github.io/embed-blocker" target="_blank">Demo</a>
 
-<a href="[https://szeccsa.github.io/embed-blocker](https://www.iframe-generator.com/)" target="_blank">Iframe generator</a>
+<a href="https://www.iframe-generator.com" target="_blank">Iframe generator</a>
