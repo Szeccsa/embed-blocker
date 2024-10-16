@@ -2,6 +2,13 @@
 
 Block others ability to embed or iframe your website on client side.
 
+## Version 2.0 updates
+
+- New UI on the /blocked page:
+Starting version 2.0 the /blocked index page will display Google's "refused to connect" page. (Image shown below) I basically took the code of this page, changed the domain that refused to connect and pasted it. No server side code.
+
+<img src="blocked.png" alt="" draggable="false" width="150px" height="75px">
+
 ## How it works
 
 It basically checks if the page is in an iframe or similar element instead of the origin. If yes (the page is in an iframe), redirect to /blocked or the given url. If no (the page is not in an iframe) show the index.html.
